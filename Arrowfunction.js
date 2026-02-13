@@ -39,3 +39,6 @@ const addTwo = (num1, num2) =>  (num1 + num2)  //implecit
 
 console.log(addTwo(3,4));
 
+
+
+
